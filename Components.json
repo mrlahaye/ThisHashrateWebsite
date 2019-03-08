@@ -8,5 +8,5 @@
 	{id:7, type:"GPU", name:"RX 580", hashrate:"7000", nethash:"", msrp:"700",netval:""},
 	{id:8, type:"GPU", name:"RX 580", hashrate:"8000", nethash:"", msrp:"800",netval:""},
 	{id:9, type:"GPU", name:"RX 580", hashrate:"9000", nethash:"", msrp:"900",netval:""},
-	{id:10, type:"GPU", name:"RX 580", hashrate:"10000", nethash:"", msrp:"1000",netval:""},
-];
+	{id:10, type:"GPU", name:"RX 580", hashrate:"10000", nethash:"", msrp:"1000",netval:""}
+]
