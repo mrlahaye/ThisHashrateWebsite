@@ -1,3 +1,14 @@
 [
-	{"id":1, "type":"GPU", "name":"RX 580", "hashrate":"1000", "nethash":"", "msrp":"100","netval":""}
+	{"id":1, "type":"GPU", "name":"MSI - Radeon RX 580 8 GB", "hashrate":"7200", "nethash":"", "msrp":"392","netval":""},
+	{"id":2, "type":"GPU", "name":"Gigabyte - Radeon RX 570 4 GB", "hashrate":"6100", "nethash":"", "msrp":"169","netval":""},
+	{"id":3, "type":"CPU", "name":"AMD RYZEN 1700", "hashrate":"10000", "nethash":"", "msrp":"159","netval":""},
+	{"id":4, "type":"CPU", "name":"AMD RYZEN 1700x", "hashrate":"11000", "nethash":"", "msrp":"244","netval":""},
+	{"id":5, "type":"GPU", "name":"MSI - Radeon RX 470 4 GB", "hashrate":"5000", "nethash":"", "msrp":"392","netval":""},
+	{"id":6, "type":"CPU", "name":"i5-5250U", "hashrate":"1500", "nethash":"", "msrp":"0","netval":""},
+	{"id":7, "type":"CPU", "name":"Intel(R) Xeon(R) CPU E5-2630", "hashrate":"2300", "nethash":"", "msrp":"0","netval":""},
+	{"id":8, "type":"Board", "name":"Raspberry pi 2", "hashrate":"60", "nethash":"", "msrp":"55","netval":""},
+	{"id":9, "type":"Board", "name":"NanoPi Fire3 LTS", "hashrate":"1000", "nethash":"", "msrp":"0","netval":""},
+	{"id":10, "type":"CPU", "name":"AMD Opteron 6380", "hashrate":"20000", "nethash":"", "msrp":"0","netval":""},
+	{"id":11, "type":"GPU", "name":"MSI Radeon Vega 56", "hashrate":"17000", "nethash":"", "msrp":"320","netval":""},
+	{"id":12, "type":"GPU", "name":"XFX Radeon 64", "hashrate":"17000", "nethash":"", "msrp":"549","netval":""}
 ]
